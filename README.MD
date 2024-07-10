@@ -1,5 +1,5 @@
 # Data Management
-Auf dieser Seite finden Sie Inhalte für das Fach Data Management
+Auf dieser Seite finden Sie Inhalte für das Fach Data Management (SIM und AccFi)
 
 Aufgrund des Hackerangriffs auf die Frankfurt University, können Sie mich aktuell erreichen unter:
 magruene@live.de
